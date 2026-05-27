@@ -18,24 +18,24 @@
 
 #### DOTA-UN 11-4 setting
 
-![image-20260527205544362](.\README.assets\20260527205544362.png)
+![image-20260527205544362](./README.assets/20260527205544362.png)
 
 #### DOTA-UN 8-7 setting
 
-![image-20260527205600540](.\README.assets\20260527205600540.png)
+![image-20260527205600540](./README.assets/20260527205600540.png)
 
 ### On DIOR-UN
 
-![image-20260527214459262](.\README.assets\20260527214459262.png)
+![image-20260527214459262](./README.assets/20260527214459262.png)
 
 ## Visualization Result
 
 ### On DOTA-UN
 
-![image-20260527214549328](.\README.assets\20260527214549328.png)
+![image-20260527214549328](./README.assets/20260527214549328.png)
 
 ### On DIOR-UN
 
-![image-20260527214559826](.\README.assets\20260527214559826.png)
+![image-20260527214559826](./README.assets/20260527214559826.png)
 
 ## The code and data will be made publicly available upon the acceptance of the paper.
